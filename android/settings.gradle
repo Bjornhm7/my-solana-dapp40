@@ -1,0 +1,2 @@
+rootProject.name = "my-solana-dapp40"
+include ':app'
